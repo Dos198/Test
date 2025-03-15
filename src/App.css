@@ -29,7 +29,7 @@ h1 {
   align-items: center;
   gap: 20px;
   margin-bottom: 20px;
-  background-image: url('/background.jpg'); /* Заменяем градиент на изображение */
+  background-image: url('/background.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -272,7 +272,6 @@ h1 {
   transition: background-color 0.3s ease;
   display: block;
   width: 150px;
-  /* Настраиваемые отступы */
   margin-top: 40px;
   margin-right: 0;
   margin-bottom: 10px;
@@ -318,7 +317,7 @@ h1 {
 }
 
 .card {
-  background-image: url('/background.jpg'); /* Заменяем градиент на изображение */
+  background-image: url('/background.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

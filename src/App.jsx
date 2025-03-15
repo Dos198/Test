@@ -2,7 +2,7 @@ import React from 'react';
 import Form from './components/Form';
 import NewForm from './components/NewForm';
 import './App.css';
-import '@fortawesome/fontawesome-free/css/all.min.css'; // Подключение Font Awesome
+import '@fortawesome/fontawesome-free/css/all.min.css';
 
 function App() {
   return (
